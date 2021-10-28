@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Мессенджер</string>
+    <string name="Edit_text_hint_nikname">Введите имя</string>
+    <string name="Button_send_nikname">Ввод</string>
+    <string name="send_button_name">Отправить</string>
+    <string name="edit_text_hint_text">Введите сообщение!</string>
+</resources>
